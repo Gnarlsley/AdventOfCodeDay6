@@ -1,6 +1,6 @@
 Day 6 solved using C++
 
-Sidenote: This was my first program using C++
+Puzzle details are as follows:
 
 --- Day 6: Guard Gallivant ---
 
