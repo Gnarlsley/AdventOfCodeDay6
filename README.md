@@ -1,4 +1,6 @@
-Day 6 solved using C++ / my first program in C++
+Day 6 solved using C++
+
+Sidenote: This was my first program using C++
 
 --- Day 6: Guard Gallivant ---
 
